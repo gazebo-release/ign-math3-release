@@ -10,7 +10,7 @@ Vcs-Browser: https://bitbucket.org/ignitionrobotics/ign_math-release
 Vcs-Hg: https://bitbucket.org/ignitionrobotics/ign_math-release
 Homepage: https://bitbucket.org/ignitionrobotics/ign_math
 
-Package: libignmath0
+Package: libignition-math0
 Architecture: any
 Section: libs
 Pre-Depends: ${misc:Pre-Depends}
@@ -18,20 +18,20 @@ Depends: ${shlibs:Depends}, ${misc:Depends}
 Multi-Arch: same
 Description: Ignition Robotics Math Library - Shared library
 
-Package: libignmath-dev
+Package: libignition-math-dev
 Architecture: any
 Section: libdevel
-Depends: libignmath0 (= ${binary:Version}),
+Depends: libignition-math0 (= ${binary:Version}),
          ${misc:Depends}
 Multi-Arch: same
 Description: Ignition Robotics Math Library - Development files
  
-Package: libignmath0-dbg
+Package: libignition-math0-dbg
 Architecture: any
 Section: debug
 Priority: extra
 Depends:
-     libignmath0 (= ${binary:Version}),
+     libignition-math0 (= ${binary:Version}),
      ${misc:Depends}
 Multi-Arch: same
 Description: Ignition Robotics Math Library - Debugging symbols

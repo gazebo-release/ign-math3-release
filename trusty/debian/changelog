@@ -1,3 +1,9 @@
+ignition-math (0.2.0-1~trusty) trusty; urgency=medium
+
+  * ignition-math 0.2.0-1 release
+
+ -- jrivero <jrivero@osrfoundation>  Wed, 29 Oct 2014 17:11:54 -0700
+
 ignition-math (0.1.0-1~trusty) trusty; urgency=low
 
   * ignition-math 0.1.0-1 release

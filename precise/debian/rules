@@ -15,8 +15,8 @@ DEB_HOST_MULTIARCH ?= $(shell dpkg-architecture -qDEB_HOST_MULTIARCH)
 debian/%.install: debian/%.install.in
 	sed 's/@DEB_HOST_MULTIARCH@/$(DEB_HOST_MULTIARCH)/g' $< > $@
 
-override_dh_auto_install: debian/libignmath0.install \
-                          debian/libignmath-dev.install
+override_dh_auto_install: debian/libignition-math0.install \
+                          debian/libignition-math-dev.install
 	dh_auto_install
 
 override_dh_auto_configure:
@@ -25,4 +25,4 @@ override_dh_auto_configure:
 	    -DCMAKE_INSTALL_LIBDIR:PATH=lib/$(DEB_HOST_MULTIARCH)
 
 override_dh_strip:
-	dh_strip -a --dbg-package=libignmath0-dbg
+	dh_strip -a --dbg-package=libignition-math0-dbg

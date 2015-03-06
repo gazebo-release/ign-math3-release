@@ -2,6 +2,12 @@ ignition-math (1.0.0-1~trusty) trusty; urgency=medium
 
   * ignition-math 1.0.0-1 release
 
+ -- Nate Koenig <nate@osrfoundation.org>  Fri, 06 Mar 2015 10:46:32 -0800
+
+ignition-math (1.0.0-1~trusty) trusty; urgency=medium
+
+  * ignition-math 1.0.0-1 release
+
  -- Nate Koenig <nate@osrfoundation.org>  Fri, 06 Mar 2015 10:46:08 -0800
 
 ignition-math (0.2.0-1~trusty) trusty; urgency=medium

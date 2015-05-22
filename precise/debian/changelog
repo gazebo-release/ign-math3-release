@@ -1,3 +1,9 @@
+ignition-math2 (2.1.1-1~precise) precise; urgency=medium
+
+  * ignition-math2 2.1.1-1 release
+
+ -- Nate Koenig <nate@osrfoundation.org>  Fri, 22 May 2015 07:42:17 -0700
+
 ignition-math2 (2.1.0-1~precise) precise; urgency=medium
 
   * ignition-math2 2.1.0-1 release

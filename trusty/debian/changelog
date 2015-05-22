@@ -1,3 +1,9 @@
+ignition-math2 (2.0.4-1~trusty) trusty; urgency=medium
+
+  * ignition-math2 2.0.4-1 release
+
+ -- Nate Koenig <nate@osrfoundation.org>  Thu, 21 May 2015 18:04:31 -0700
+
 ignition-math2 (2.0.3-1~trusty) trusty; urgency=medium
 
   * ignition-math2 2.0.3-1 release

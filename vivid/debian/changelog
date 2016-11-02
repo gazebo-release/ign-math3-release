@@ -1,3 +1,9 @@
+ignition-math2 (2.6.0-1~vivid) vivid; urgency=medium
+
+  * ignition-math2 2.6.0-1 release
+
+ -- Nate Koenig <nkoenig@osrfoundation.org>  Wed, 02 Nov 2016 08:25:00 -0700
+
 ignition-math2 (2.5.0-1~vivid) vivid; urgency=medium
 
   * ignition-math2 2.5.0-1 release

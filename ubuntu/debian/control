@@ -1,4 +1,4 @@
-Source: ignition-math2
+Source: ignition-math3
 Standards-Version: 3.9.4
 Maintainer: Jose Luis Rivero <jrivero@osrfoundation.org>
 Section: science
@@ -11,7 +11,7 @@ Vcs-Browser: https://bitbucket.org/ignitionrobotics/ign_math-release
 Vcs-Hg: https://bitbucket.org/ignitionrobotics/ign_math-release
 Homepage: https://bitbucket.org/ignitionrobotics/ign_math
 
-Package: libignition-math2
+Package: libignition-math3
 Architecture: any
 Section: libs
 Pre-Depends: ${misc:Pre-Depends}
@@ -19,20 +19,20 @@ Depends: ${shlibs:Depends}, ${misc:Depends}
 Multi-Arch: same
 Description: Ignition Robotics Math Library - Shared library
 
-Package: libignition-math2-dev
+Package: libignition-math3-dev
 Architecture: any
 Section: libdevel
-Depends: libignition-math2 (= ${binary:Version}),
+Depends: libignition-math3 (= ${binary:Version}),
          ${misc:Depends}
 Multi-Arch: same
 Description: Ignition Robotics Math Library - Development files
  
-Package: libignition-math2-dbg
+Package: libignition-math3-dbg
 Architecture: any
 Section: debug
 Priority: extra
 Depends:
-     libignition-math2 (= ${binary:Version}),
+     libignition-math3 (= ${binary:Version}),
      ${misc:Depends}
 Multi-Arch: same
 Description: Ignition Robotics Math Library - Debugging symbols

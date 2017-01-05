@@ -1,35 +1,5 @@
-ignition-math2 (2.7.0-1~xenial) xenial; urgency=medium
+ignition-math3 (3.0.0-1~xenial) xenial; urgency=medium
 
-  * ignition-math2 2.7.0-1 release
+  * ignition-math2 3.0.0-1 release
 
- -- Steve Peters <scpeters@osrfoundation.org>  Wed, 04 Jan 2017 10:13:48 -0800
-
-ignition-math2 (2.6.0-1~xenial) xenial; urgency=medium
-
-  * ignition-math2 2.6.0-1 release
-
- -- Nate Koenig <nkoenig@osrfoundation.org>  Wed, 02 Nov 2016 08:25:00 -0700
-
-ignition-math2 (2.5.0-1~xenial) xenial; urgency=medium
-
-  * ignition-math2 2.5.0-1 release
-
- -- Nate Koenig <nkoenig@osrfoundation.org>  Thu, 21 Jul 2016 08:42:40 -0700
-
-ignition-math2 (2.4.1-1~xenial) xenial; urgency=medium
-
-  * ignition-math2 2.4.1-1 release
-
- -- Nate Koenig <nkoenig@osrfoundation.org>  Fri, 08 Jul 2016 11:44:15 -0700
-
-ignition-math2 (2.4.0-1~xenial) xenial; urgency=medium
-
-  * ignition-math2 2.4.0-1 release
-
- -- Nate Koenig <nkoenig@osrfoundation.org>  Fri, 17 Jun 2016 14:48:13 +0600
-
-ignition-math2 (2.3.0-1~xenial) xenial; urgency=medium
-
-  * ignition-math2 2.3.0-1 release
-
- -- Jose Luis Rivero <jrivero@osrfoundation.org>  Fri, 15 Jan 2016 20:12:49 +0100
+ -- Nate Koenig <nkoenig@osrfoundation.org>  Thu, 05 Jan 2017 11:14:05 -0700

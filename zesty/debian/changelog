@@ -1,5 +1,5 @@
-ignition-math3 (3.0.1-2~zesty) zesty; urgency=medium
+ignition-math3 (3.0.0-2~zesty) zesty; urgency=medium
 
-  * ignition-math3 3.0.1-2 release
+  * ignition-math3 3.0.0-2 release
 
  -- Jose Luis Rivero <jrivero@osrfoundation.org>  Fri, 31 Mar 2017 13:08:28 +0200

@@ -1,6 +1,6 @@
-ignition-math3 (3.0.1-1~stretch) stretch; urgency=medium
+ignition-math3 (3.0.0-1~stretch) stretch; urgency=medium
 
-  * ignition-math3 3.0.1-1 release
+  * ignition-math3 3.0.0-1 release
 
  -- Jose Luis Rivero <jrivero@osrfoundation.org>  Mon, 10 Apr 2017 00:54:56 +0200
 
